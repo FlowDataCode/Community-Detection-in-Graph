@@ -1,6 +1,6 @@
 # Community-Detection-in-Graph
 
-Topic of the work: "Comparison of different methods for identifying communities on lange graph datasets"
+Topic of the coursework: "Comparison of different methods for identifying communities on lange graph datasets"
 
 * Creating a graph of Russian companies and determining some characteristics of each company using networkx
 * Using several clustering algorithms, such as the Louvain algorithm, spectral clustering and K-Means
